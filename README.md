@@ -1,2 +1,2 @@
 # projeto-EdoTensei2018
-ressuscitar uchiha  
+ressuscitar uchiha para matar de novo.  
