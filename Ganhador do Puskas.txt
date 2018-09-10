@@ -1,6 +1,10 @@
 agora vai dar bug kkkkkkkkkk
 
+<<<<<<< HEAD
 sasunaru nananananananaananananaann
+=======
+MADARA MIL GRAUL
+>>>>>>> 38604a756dae7b7af13edb29faa258e0129b0ead
 
 mas o gol nem foi tão bonito
 
