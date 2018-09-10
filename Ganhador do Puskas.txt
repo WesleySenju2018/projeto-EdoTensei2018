@@ -1,10 +1,14 @@
 agora vai dar bug kkkkkkkkkk
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 sasunaru nananananananaananananaann
 =======
 MADARA MIL GRAUL
 >>>>>>> 38604a756dae7b7af13edb29faa258e0129b0ead
+=======
+MADARA MIL GRAUL/OBITO
+>>>>>>> 33e65f28b6382c36c81769b8640e5401625db232
 
 mas o gol nem foi tão bonito
 
